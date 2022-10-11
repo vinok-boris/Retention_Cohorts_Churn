@@ -1,0 +1,5 @@
+Retention Cohorts and Churn
+This project was completed to demonstrate my knowledge of the topic.
+It includes
+  1. SQL Query to pull the nececery information using DATE_TRUNC and WINDOW Functions.
+  2. Excel tables and graphs, as well as key analysis summary.
